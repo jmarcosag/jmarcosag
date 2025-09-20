@@ -1,6 +1,5 @@
 ### Hello there! Welcome to my profile, my name is João Marcos 👋
 ##
-- 🌱 I’m currently learning React, React Native, Java, Python, C++ and Unreal Engine 5
 - 💻 I'm a Software Engineer
 - 💬 Pronouns: He/Him
 
